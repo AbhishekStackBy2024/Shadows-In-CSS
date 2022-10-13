@@ -1,0 +1,17 @@
+h1{
+ font-size: 100px;
+ border: solid;
+ padding: 25px;
+ width: 400px;
+ color: rgb(18, 18, 19);
+ background-color: black;
+
+ text-shadow: 0px 0px 5px yellow , 0px -5px 5px red;
+ /*Four values in text-shadow property are : 1) Horizontal Shadow(in px)
+ 2) Vertical Shadow (in px)
+ 3) Bluring Of Shadow (in px)
+ 4) Color Of Shadow ( name , rgb , hex)
+ */
+
+ box-shadow: 10px 10px 5px #666666;
+}
